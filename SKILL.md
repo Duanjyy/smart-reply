@@ -8,10 +8,8 @@ description: >-
   help me reply、what to reply、how to respond、不知道回什么。
 license: MIT
 compatibility:
-  - Claude Code
-  - Cursor
-  - Windsurf
-  - Claude Desktop
+  - TRAE SOLO
+  - TRAE IDE
 metadata:
   author: SOLO
   version: 1.1.0
