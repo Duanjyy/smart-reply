@@ -11,7 +11,7 @@ compatibility:
   - TRAE SOLO
   - TRAE IDE
 metadata:
-  author: SOLO
+  author: 汤圆
   version: 1.1.0
   tags:
     - communication
